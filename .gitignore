@@ -73,3 +73,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets/Utilities/Ignore
+/Packages/com.distantlands.cozy.blocks
+/Packages/com.distantlands.cozy.core
+/Packages/com.jbooth.microverse
+/Packages/com.jbooth.microverse.vegetation
+/Packages/com.jbooth.microverse.splines
