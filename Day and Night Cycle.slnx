@@ -1,0 +1,15 @@
+﻿<Solution>
+  <Project Path="ECM2.Walkthrough.csproj" />
+  <Project Path="DistantLands.Cozy.Runtime.csproj" />
+  <Project Path="JBooth.MicroVerseCore.csproj" />
+  <Project Path="JBooth.MicroVerseCore.Editor.csproj" />
+  <Project Path="ECM2.csproj" />
+  <Project Path="ECM2.Examples.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="sc.stylizedwater2.runtime.csproj" />
+  <Project Path="sc.stylizedwater2.editor.csproj" />
+  <Project Path="JBooth.MicroVerse.ShaderPackagerEditor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="DistantLands.Cozy.Blocks.Runtime.csproj" />
+  <Project Path="DistantLands.Cozy.Editor.csproj" />
+</Solution>
